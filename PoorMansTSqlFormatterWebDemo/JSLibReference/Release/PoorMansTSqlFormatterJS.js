@@ -28498,7 +28498,7 @@ Bridge.define("System.Text.RegularExpressions.RegexParser", {
 
 /**
  * A simple free (AGPL) T-SQL formatting library for JS
- * @version 1.6.12.2815
+ * @version 1.6.16.36174
  * @copyright Copyright ©  2011-2017 Tao Klerks
  * @compiler Bridge.NET 16.0.0-beta4
  */
